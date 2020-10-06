@@ -1,0 +1,25 @@
+body {
+	text-align: center; 
+	color: white
+	background-color: #FFE4D4
+	}
+
+h1,h3 {
+	font-family: Helvetica;
+	font-weight: normal;
+	text-decoration: underline;
+	text-transform: uppercase;
+
+}
+h3 {
+	font-size: 22px;
+}
+
+p{
+	font-family: "courier new", monospace;
+}
+
+a{
+	font-style: italic;
+	text-decoration: none;
+}
