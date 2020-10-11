@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap)
+body h1{
+	text-align: left; 
+	color: #FFE4D4
+	background-color: #FFE4D4
+	} 
+
+h1,h3 {
+	font-family: Helvetica;
+	font-weight: 1.5em;
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	background-color: #FFE4D4
+
+}
+h3 {
+	font-size: 22px;
+}
+
+p{
+	font-family: "Helvetica", monospace;
+}
+
+a{
+	font-style: italic;
+	text-decoration: none;
+}
