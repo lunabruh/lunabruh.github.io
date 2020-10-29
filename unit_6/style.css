@@ -1,11 +1,13 @@
 h1{
 	text-align: center;
+	font-size: 40px
 }
 
 h3{
 	font-family: Times New Roman, san-serif;
 	font-size: 18px;
 	font-decoration: underline;
+	float: left;
 }
 
 .topnav a {
@@ -28,15 +30,28 @@ h3{
   color: white;
 }
 
- }
+article  {
+	float: left;
+	width: 50%;
+	font-size: ;
+}
 
- a{
- 	background-color: 
- 	color:;
- 	text-decoration: 
- 	display:;
+img {
+	float: left;
+	width: 45%; 
+}
 
- }
+section{
+	float: left;
+}
+
+
+#wrapper {
+ margin: 0 auto;
+ width: 50%;
+}
+
+
 
  .clearfix:after {
  	visibility: 
@@ -47,31 +62,10 @@ h3{
  	font-size: ;
  }
 
+.column {
+ 	float: left;
 
-
- .column {
- 	float: right;
- 	width: 200px;
- 	height: 500px;
- 	padding: 10px;
- 	margin: 1.5em;
- }
-
- #two_column {
- 	background-color: #ffb7cf;
- 	border: 1px black solid;
- 	padding: 20px;
-
- }
-
-
-#left {
-    background-color: violet;
-    border: 1px white solid;
-    padding: 10px;
-    float: left;
-    width: 40%;
-}
+ 
 
 #right {
     background-color: pink;
@@ -81,9 +75,10 @@ h3{
     width: 42%;
 }
 
+
  div{
- 	font-size: 10px;
- 	width: 30px;
+ 	font-size: 20px;
+ 	width: ;
  }
 
 
